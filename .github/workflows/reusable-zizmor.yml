@@ -29,10 +29,6 @@ on:
 
 permissions: {}
 
-# TODO:
-# - [ ] Write a README. (Include some FAQs.)
-# - [ ] Set up release-please, and make sure the linter catches reusable workflows.
-
 jobs:
   analysis:
     name: Generate and upload zizmor results 🌈
